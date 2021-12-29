@@ -105,7 +105,7 @@ namespace WFormVpro
             // 
             // BtnDealBlob
             // 
-            this.BtnDealBlob.Location = new System.Drawing.Point(704, 53);
+            this.BtnDealBlob.Location = new System.Drawing.Point(704, 47);
             this.BtnDealBlob.Name = "BtnDealBlob";
             this.BtnDealBlob.Size = new System.Drawing.Size(66, 27);
             this.BtnDealBlob.TabIndex = 2;
