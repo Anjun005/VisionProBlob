@@ -86,7 +86,7 @@ namespace WFormVpro
             //jobmanager = CogSerializer.LoadObjectFromFile(jobPath + @"\QB1.vpp") as CogJobManager;           
             DirectoryInfo info = new DirectoryInfo(Application.StartupPath);
             string strVppPath = info.Parent.Parent.FullName + @"\AForgeDllvpp\QB1.vpp";
-            jobmanager = CogSerializer.LoadObjectFromFile(strVppPath) as CogJobManager;
+            jobmanager = CogSerializer.LoadObjectFromFile(strVppPath) as CogJobManager;//1702 ceshi
         }
 
 
