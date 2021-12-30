@@ -100,7 +100,7 @@ namespace WFormVpro
             this.cogRecordDisplay1.MouseWheelSensitivity = 1D;
             this.cogRecordDisplay1.Name = "cogRecordDisplay1";
             this.cogRecordDisplay1.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("cogRecordDisplay1.OcxState")));
-            this.cogRecordDisplay1.Size = new System.Drawing.Size(350, 352);
+            this.cogRecordDisplay1.Size = new System.Drawing.Size(360, 352);
             this.cogRecordDisplay1.TabIndex = 13;
             // 
             // BtnDealBlob

@@ -22,6 +22,7 @@ using Cognex.VisionPro.Blob;
 
 using WebCam;
 using AForge.Video.DirectShow;
+//VS19 GitHUb desktop test1355
 
 namespace WFormVpro
 {
